@@ -6,13 +6,13 @@
 
 Bài tập tập trung vào việc sử dụng HTML5 và CSS3 để xây dựng, cải tiến giao diện danh sách sản phẩm cho thương hiệu Cocoon.
 
-- **Sinh viên thực hiện:** [Họ và tên]
+- **Sinh viên thực hiện:** Vương Thị Anh
 - **Môn học:** Phát triển ứng dụng WEB/TMĐT
 - **Giảng viên:** TS. Nguyễn Mạnh Tuấn
 
 ## 2. Website tham khảo và khu vực cải tiến
 
-- **Website tham khảo:** [Điền đường dẫn website Cocoon]
+- **Website tham khảo:** (https://www.cocoonvietnam.com/)
 - **Khu vực cải tiến:** Giao diện danh sách sản phẩm.
 - **Nội dung thực hiện:** Trình bày thông tin sản phẩm, hình ảnh, giá bán, phân loại sản phẩm và các nút thao tác.
 
